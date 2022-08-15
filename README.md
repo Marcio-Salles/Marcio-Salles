@@ -1,7 +1,8 @@
 
 <div>
   <h1 align="center">😃️ <i>Marcio-Salles</i> 😃️</h1>
-  <h4 align="center"></a>Olá! Tudo bem ? Sou estudante de Análise e Desenvolvimento de Sistemas  na <a href="https://https://unip.br/"><i>Universidade Paulista</i></a>. 😃️</h4>  <br> 
+  <h4 align="center">
+Saudações, meu nome é Márcio, moro na cidade de Jundiaí - SP - Brasil <br>Sou estudante de Análise e Desenvolvimento de Sistemas na <a href="https://https://unip.br/"><i>Universidade Paulista</i></a>,   <br> <br> 
 
 <div align="center">
   <a href="https:https://github.com/Marcio-Salles">
