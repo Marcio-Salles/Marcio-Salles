@@ -5,7 +5,7 @@
 Saudações, meu nome é Márcio, moro na cidade de Jundiaí - SP - Brasil <br>Sou estudante de Análise e Desenvolvimento de Sistemas na <a href="https://https://unip.br/"><i>Universidade Paulista</i></a>,   <br> <br> 
 
 <div align="center">
-  <a href="https:https://github.com/Marcio-Salles">
+  <a href="https://github.com/Marcio-Salles">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Marcio-Salles&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/> 
   </a>
 </div>
