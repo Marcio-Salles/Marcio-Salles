@@ -2,8 +2,7 @@
 <div>
   <h1 align="center">😃️ <i>Marcio-Salles</i> 😃️</h1>
   <h4 align="center">
-Olá! Atualmente estou em um processo de transição de carreira, buscando uma oportunidade para ingressar na área de T.I. Com a recente Graduação em Análise e desenvolvimento de sistemas na Universidade Paulista e também alguns cursos na área de programação ( Java, C#, C, Linux, HTML, CSS, PostgreSQL, etc... ) sigo em constante aprendizado. Tenho uma vasta experiência no ramo da metalúrgica trabalhando com diversos tipos de máquinas CNCs. Possuo diplomas de diferentes cursos do Senai entre eles posso destacar a programação de torno cnc e programador de afiadora cnc 
-Schutte e Anca. Estou sempre buscando novos conhecimentos.</i></a>,   <br> <br> 
+Olá! Atualmente estou em um processo de transição de carreira, buscando uma oportunidade para ingressar na área de T.I. Com a recente Graduação em Análise e desenvolvimento de sistemas na Universidade Paulista e também alguns cursos na área de programação ( Java, C#, C, Linux, HTML, CSS, PostgreSQL, etc... ) sigo em constante aprendizado. Possuo diplomas de diferentes cursos do Senai entre eles posso destacar a programação de torno cnc e programador de afiadora cnc Schutte e Anca. Estou sempre buscando novos conhecimentos.</i></a>,   <br> <br> 
 
 <div align="center">
   <a href="https://github.com/Marcio-Salles">
