@@ -5,9 +5,8 @@
 Olá! Atualmente estou em um processo de transição de carreira, buscando uma oportunidade para ingressar <br> na área de T.I
 Com a recente Graduação em Análise e desenvolvimento de sistemas na Universidade Paulista <br> e também alguns cursos na área de
 programação ( Java, C#, C, Linux, HTML, CSS, PostgreSQL, etc... ). <br><br><br>
-<div align="center">
-  
-</div>
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Marcio-Salles&theme=github_dark) 
+![](https://komarev.com/ghpvc/?username=Marcio-Salles)
 
 <div align="center" valign="top"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://www.svgrepo.com/show/452122/ubuntu.svg">
