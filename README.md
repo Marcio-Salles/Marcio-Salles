@@ -6,9 +6,7 @@ Olá! Atualmente estou em um processo de transição de carreira, buscando uma o
 Com a recente Graduação em Análise e desenvolvimento de sistemas na Universidade Paulista <br> e também alguns cursos na área de
 programação ( Java, C#, C, Linux, HTML, CSS, PostgreSQL, etc... ). <br><br><br>
 <div align="center">
-  <a href="https://github.com/Marcio-Salles">
-    <img height="150em" src="![Marcio-Salles GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcio-Salles&show_icons=true&theme=radical)"/> 
-  </a>
+  
 </div>
 
 <div align="center" valign="top"><br>
