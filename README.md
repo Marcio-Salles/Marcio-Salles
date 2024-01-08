@@ -8,6 +8,8 @@ programação ( Java, C#, C, Linux, HTML, CSS, PostgreSQL, etc... ). <br><br><br
     
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Marcio-Salles&theme=github_dark) 
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E00F7&width=720&lines=Seja+bem+vindo+(a).+Estou+sempre+buscando+novas+conexões.)](https://git.io/typing-svg)
+
 
 <div align="center" valign="top"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://www.svgrepo.com/show/452122/ubuntu.svg">
