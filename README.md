@@ -2,12 +2,17 @@
 <div>
   <h1 align="center">😃️ <i>Marcio-Salles</i> 😃️</h1>
   <h4 align="center">
-<h4>
-    Olá! Atualmente estou em um processo de transição de carreira, buscando uma oportunidade para ingressar <br> na área de T.I
-Com a recente Graduação em Análise e desenvolvimento de sistemas na Universidade Paulista <br> e também alguns cursos na área de
-programação ( Java, C#, C, Linux, HTML, CSS, PostgreSQL, etc... ).   </h4> <br><br><br>
+
+<p align="justify"> Olá! Atualmente estou em um processo de transição de carreira, buscando uma oportunidade para ingressar na área de T.I
+Com a recente Graduação em Análise e desenvolvimento de sistemas na Universidade Paulista e também alguns cursos na área de
+programação ( Java, C#, C, Linux, HTML, CSS, PostgreSQL, etc... ).  </p> <br><br>
+    
+  
     
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Marcio-Salles&theme=github_dark) 
+    
+<br>
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E00F7&width=720&lines=Seja+bem+vindo+(a).+Estou+sempre+buscando+novas+conexões.)](https://git.io/typing-svg)
 
