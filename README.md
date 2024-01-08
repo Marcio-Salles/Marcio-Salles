@@ -2,9 +2,10 @@
 <div>
   <h1 align="center">😃️ <i>Marcio-Salles</i> 😃️</h1>
   <h4 align="center">
-Olá! Atualmente estou em um processo de transição de carreira, buscando uma oportunidade para ingressar <br> na área de T.I
+<h4>
+    Olá! Atualmente estou em um processo de transição de carreira, buscando uma oportunidade para ingressar <br> na área de T.I
 Com a recente Graduação em Análise e desenvolvimento de sistemas na Universidade Paulista <br> e também alguns cursos na área de
-programação ( Java, C#, C, Linux, HTML, CSS, PostgreSQL, etc... ). <br><br><br>
+programação ( Java, C#, C, Linux, HTML, CSS, PostgreSQL, etc... ).   </h4> <br><br><br>
     
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Marcio-Salles&theme=github_dark) 
 
