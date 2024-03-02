@@ -19,8 +19,11 @@ programação Java, C#, C, Linux, HTML, CSS, PostgreSQL, etc... </p> <br><br>
 
 <div align="center" valign="top"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://www.svgrepo.com/show/452122/ubuntu.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
-    <img align="center" alt="Js" height="35" width="45" src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=currentColor">
+   <img align="center" alt="Js" height="27" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg">
+   <img align="center" alt="Js" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
+   <img align="center" alt="Js" height="35" width="50" src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=currentColor">
+  <img align="center" alt="Js" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">   
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <!--   <img align="center" alt="github" height="35" width="35" src="/assets/GitHub.png"> -->  
