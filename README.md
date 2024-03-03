@@ -5,7 +5,7 @@
 
 <p align="justify"> Olá! Atualmente estou em um processo de transição de carreira, buscando uma oportunidade para ingressar na área de T.I
 Com a recente Graduação em Análise e desenvolvimento de sistemas na Universidade Paulista e também alguns cursos na área de
-programação Java, Spring Boot, C#, C, Linux, Windows 10, HTML, CSS, MySQL, PostgreSQL, etc... </p> <br><br>
+programação Java, Linux, Windows 10, HTML, CSS, MySQL, PostgreSQL, etc... </p> <br><br>
     
   
     
