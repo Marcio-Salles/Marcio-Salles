@@ -8,13 +8,6 @@
 Paralelamente, estou em transição de carreira para a área de tecnologia, com formação em Tecnólogo em Análise e Desenvolvimento de Sistemas pela UNIP. Complemento minha formação com cursos de Java, MySQL, HTML5, CSS3, C, C#, lógica de programação e sistemas operacionais Linux e Windows. Possuo ainda inglês técnico e espanhol em nível básico a intermediário.
 
 Sou um profissional comprometido, adaptável e motivado a aplicar meus conhecimentos tanto na indústria quanto em projetos de tecnologia. Busco oportunidades que me permitam unir minha experiência prática com minha formação em TI, contribuindo para soluções inovadoras e eficientes.. </p> <br><br>
-    
-  
-    
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Marcio-Salles&theme=github_dark) 
-    
-<br>
-
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2980F0&width=720&lines=Seja+bem+vindo+(a).+Estou+sempre+buscando+novas+conexões.)](https://git.io/typing-svg)
 
