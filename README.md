@@ -3,9 +3,11 @@
   <h1 align="center">😃️ <i>Marcio-Salles</i> 😃️</h1>
   <h4 align="center">
 
-<p align="justify"> Olá! Atualmente estou em um processo de transição de carreira, buscando uma oportunidade para ingressar na área de T.I
-Com a recente Graduação em Análise e desenvolvimento de sistemas na Universidade Paulista e também alguns cursos na área de
-programação Java, Linux, Windows 10, HTML, CSS, MySQL, PostgreSQL, etc... </p> <br><br>
+<p align="justify"> Sou profissional com sólida experiência em operação de máquinas CNC e convencionais, acumulando mais de 14 anos de atuação em usinagem e processos industriais. Ao longo da minha trajetória, trabalhei com equipamentos como retíficas plana e cilíndrica, torno CNC, fresa CNC, centros de usinagem, máquinas de corte a laser (Hyper Gear e STX Mazak), além de afiadoras CNC (Schutte e Anca). Também adquiri vivência em serralheria, funilaria e reciclagem, operando extrusoras, lavadoras e aglutinadoras.
+
+Paralelamente, estou em transição de carreira para a área de tecnologia, com formação em Tecnólogo em Análise e Desenvolvimento de Sistemas pela UNIP. Complemento minha formação com cursos de Java, MySQL, HTML5, CSS3, C, C#, lógica de programação e sistemas operacionais Linux e Windows. Possuo ainda inglês técnico e espanhol em nível básico a intermediário.
+
+Sou um profissional comprometido, adaptável e motivado a aplicar meus conhecimentos tanto na indústria quanto em projetos de tecnologia. Busco oportunidades que me permitam unir minha experiência prática com minha formação em TI, contribuindo para soluções inovadoras e eficientes.. </p> <br><br>
     
   
     
